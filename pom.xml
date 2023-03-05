@@ -19,6 +19,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <!-- tag::actuator[] -->
+        <!-- added comment to test syn -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
